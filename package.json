@@ -1,0 +1,27 @@
+{
+  "name": "startcode.dev.font.family",
+  "version": "1.0.0",
+  "description": "font family mixin library",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/start-code-dev/startcode.dev.font.family.git"
+  },
+  "keywords": [
+    "startcode.dev.family"
+  ],
+  "author": "start{code} <info@startcode.dev>",
+  "maintainers": [
+    "Drasko Gomboc <drasko.gomboc@gmail.com>",
+    "Zeljko Simic <zeljkosbgd@gmail.com>",
+    "Nemanja Mirkov <mirkovnemanja@gmail.com>"
+  ],
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/start-code-dev/startcode.dev.font.family/issues"
+  },
+  "homepage": "https://github.com/start-code-dev/startcode.dev.font.family"
+}
